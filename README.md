@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am João</h1>
-<h3 align="center">Gopher, student and technology enthusiast.</h3>
+<h3 align="center"> 👨‍🎓 About me</h3>
 
 - 🔭 I’m currently working on **Farsoft Systems**
 
