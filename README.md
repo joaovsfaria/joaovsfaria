@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Farsoft Systems**
 
-- 🌱 I’m currently learning **Golang, NextJS and MySQL.**
+- 🌱 I’m currently learning **Golang, Next.JS and MySQL.**
 
 - 💬 Ask me about **Golang, React and MySQL.**
 
