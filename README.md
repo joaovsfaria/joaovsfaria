@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am João</h1>
 <h3 align="center"> 👨‍🎓 About me</h3>
 
-- 🔭 I’m currently working on **Farsoft Systems**
+- 🔭 I’m currently working on **Rise Studio**
 
 - 🌱 I’m currently learning **Golang, Next.JS and MySQL.**
 
