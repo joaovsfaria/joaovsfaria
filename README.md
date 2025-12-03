@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Next.JS and MySQL.**
 
-- 💬 Ask me about **Golang, React and MySQL.**
+- 💬 Ask me about **Node, React and MySQL.**
 
 - 📄 About me [https://www.linkedin.com/in/joao-victor-samuel-faria-1234ab168/](https://www.linkedin.com/in/joao-victor-samuel-faria-1234ab168/)
 
